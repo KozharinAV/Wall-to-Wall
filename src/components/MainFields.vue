@@ -102,7 +102,6 @@
 import { defineFirstStep, shuffle, checkIdentity } from "./Logic";
 import { defineComponent } from "vue";
 import PlayCard from "./PlayCard.vue";
-import PlayQueue from "./PlayQueue.vue";
 
 export default defineComponent({
   name: "MainFields",
